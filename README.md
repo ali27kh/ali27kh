@@ -86,11 +86,6 @@
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ali27kh&theme=gruvbox" height="150" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ali27kh&theme=gruvbox" height="150" />
 
-<!-- Contribution Calendar -->
-<p align="center">
- <img src="https://ghchart.rshah.org/ali27kh" alt="GitHub Contribution Chart" />
-</p>
-
 
 </div>
  
