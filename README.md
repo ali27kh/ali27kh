@@ -58,7 +58,6 @@
 *Databases & Cloud*  
 <p align="left">
   <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,sqlite,azure,gcp" /> 
-  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white" />
 </p>
 
 
