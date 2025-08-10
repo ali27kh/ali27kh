@@ -17,9 +17,9 @@
 ## 🧑‍💻 About Me  
 - 🎓 Data Scientist from *Tunisia*  
 - 💼 Skilled in *Data Science, Machine Learning, Deep Learning, NLP*  
-- 🛠 Expert in *Python, SQL, TensorFlow, PyTorch, Scikit-learn, FastAPI, Flask, Django*  
+- 🛠 Expert in *Python, SQL, TensorFlow, PyTorch, Scikit-learn,  *  
 - 📊 Passionate about turning *data into actionable insights*  
-- 🌱 Currently exploring *MLOps, Generative AI, and Big Data Pipelines*  
+- 🌱 Currently exploring *MLOps, Generative AI, and LLM*  
 - 📫 Reach me at: *khelifi.ali1234@gmail.com*  
 
 ---
@@ -70,15 +70,7 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ali27kh&show_icons=true&theme=gruvbox" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ali27kh&layout=compact&theme=gruvbox" height="150" />
-</div>
-
----
-
-## 🏆 Achievements  
-
-- 🥇 *Kaggle Competitions* – Top 10% in multiple ML challenges  
-- 🏅 AI Hackathon – *Winner* (Deep Learning category)  
-- 📜 Published research in *ML-based Cancer Diagnosis*  
+</div> 
 
 ---
 
