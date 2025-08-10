@@ -87,7 +87,9 @@
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ali27kh&theme=gruvbox" height="150" />
 
 <!-- Contribution Calendar -->
-<img src="https://ghchart.rshah.org/ali27kh" alt="GitHub Contribution Chart" />
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ali27kh&theme=radical" alt="GitHub streak" width="48%" />
+</p>
 
 
 </div>
