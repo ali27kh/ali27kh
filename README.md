@@ -65,12 +65,23 @@
 
 ---
 
-## 📊 GitHub Stats  
+## 📊 GitHub Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ali27kh&show_icons=true&theme=gruvbox" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ali27kh&layout=compact&theme=gruvbox" height="150" />
-</div> 
+
+<!-- GitHub Stats -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ali27kh&theme=gruvbox&hide_border=true" height="150" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ali27kh&theme=gruvbox" height="150" />
+
+<!-- Top Languages -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ali27kh&theme=gruvbox" height="150" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ali27kh&theme=gruvbox" height="150" />
+
+<!-- Contribution Calendar -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ali27kh&theme=gruvbox&hide_border=true" height="250"/>
+
+</div>
+ 
 
 ---
 
