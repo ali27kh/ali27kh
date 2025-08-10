@@ -1,8 +1,4 @@
 <!-- HEADER IMAGE / BANNER -->
-<p align="center">
-  <img src="https://i.imgur.com/q0tFJok.png" alt="AI Engineer Banner" width="100%">
-</p>
-
 <!-- TITLE -->
 <h1 align="center">Hi 👋, I'm Ali Khelifi</h1>
 <h3 align="center">🚀 Data Scientist | 🤖 AI Engineer | 🐍 Python Developer </h3>
